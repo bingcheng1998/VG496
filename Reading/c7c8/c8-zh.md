@@ -89,3 +89,4 @@
 ## 参考
 
 > Christman，J。（2015）。 道德与政治哲学的自治。 在E. Zalta（Ed。），斯坦福哲学百科全书。 [http://plato.Stanford.edu/archives/spr20l5/entries/autonomy](https://translate.google.com/translate?hl=zh-CN&prev=_t&sl=en&tl=zh-CN&u=http://plato.Stanford.edu/archives/spr20l5/entries/autonomy) - 道德/。 Dryden，J。（2015）。 自治。 互联网哲学百科全书。 [http://www.iep.utm.edu/](https://translate.google.com/translate?hl=zh-CN&prev=_t&sl=en&tl=zh-CN&u=http://www.iep.utm.edu/) autonomy /。
+
