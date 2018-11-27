@@ -1,0 +1,105 @@
+Case Study: Case of Wei Zexi
+General case description
+On April 12, 2018, Wei Zexi, a 21-year-old Chinese university student, passed away at home because of cancer. However, things behind this case showed that Wei’s death had a considerable correlation with Baidu, one of world’s largest internet company. As reported by MIT Press, “Wei Zexi, a 21-year-old student Chinese student, was treated for a rare form of cancer with radiation and chemotherapy; when these did not work, he looked online for other options. He found a hospital in Beijing that claimed to have an experimental treatment for his condition, but after travelling to the hospital and taking the expensive treatment, he found it was neither effective nor experimental.”(MIT Press, 2016) 
+Wei Zexi had wasted a lot of time and money doing the useless treatment which was promoted to him by the searching results from Baidu. He told the media, “We thought: Baidu, a top-ranked hospital ... everything must be legitimate, A Chinese student in the United States helped me Google relevant information…Only then did we find out that American hospitals had long stopped using the technology (used in the treatment) due to poor results in clinical trials.” 
+The Beijing Armed Police Corps was the Hospital provided from Baidu to Wei when he was searching for treatment methods for his synovial sarcoma. Wei and his family chose this hospital because it ranked very high in the searching results and It’s advertisements on Baidu said it had highly efficient immunotherapy and cooperation with Stanford. It turned out later that this hospital had a high priority among all the searching results only because it had paid a lot of money to Baidu and set advertisement through Baidu marketing service. The information on its advertisement on Baidu are mostly false and this hospital was not a Top-three hospital as promoted on the advertisement on Baidu but a “Putian Medical Group” which refers to a groups of private hospitals. 
+Wei accepted the treatment from the Beijing Armed Police Corps because of the trust to the information from Baidu. He and his family are also promise by the person in charge in the hospital that the treatment can keep Wei safe for at least 20 years. However, after taking the treatment for four times and spending more than 200 thousand RMB, Wei didn’t get any better. Finally, Wei passed away at home and before his death he “blamed China’s largest search engine, Baidu, for directing him to the hospital by providing him with paid advertisements that masqueraded as objective information.” (MIT Press, 2016)
+Background of Baidu promotion service and Baidu’s relationship with Putian Medical Group
+Baidu is China’s largest search engine and the largest Chinese searching engine in the world. It owns more than 6000 million users and has approximately 70% market share. It has lots of products across hundreds of different fields including Baidu Online Marketing Service which may be one of the main reason for the tragedy of Wei Zexi. 
+	Enterprises can set their advertisements on Baidu and try to get a high rank on the searching list of Baidu by giving money to buy the service. Baidu defined this service as a “promotion” instead of “advertisement” but actually Baidu doesn’t have a strict supervision on the advertisement it shows to the public and it mixes paid searching results with natural searching results. This kind of “paid listing” of Baidu has been under controversy from public for a long time.
+	The Putian Medical Group, including the Beijing Armed Police Corps in Wei’s case, is also benefit from Baidu promotion service. “The Putian Medical Group refers to an organized group of entrepreneurs that originally come from the city of Putian, Fujian province, and who have set up private hospitals all over China.” (Koetse, 2016) It turns out that there are close ties between Baidu and Putian. Baidu make fortune through the Putian Medical Group and Putian get more customers by paying money buying Baidu’s services. “Already in 2013, Putian’s Communist Party chief stated that Putian hospitals may have contributed 12 billion RMB of the total of 26 billion RMB in ad revenues reported by Baidu that year.” (Koetse, 2016)
+“On the other hand, it is also because of Baidu’s top-ranking advertising space that the Putian Medical Group has been able to further expand their business and gain high profits within China’s healthcare industry.”(Koetse, 2016)
+Baidu response and public response
+After Wei Zexi passed away, on about May 1st, 2016, the case of Wei Zexi had raised a wide concern among the public and media. The public accused Baidu of seeking for money and ignoring its social responsibility. The government and relative department also investigated Baidu after this case.
+	On April. 28, 2016, Baidu respond to the media and public that they have check that the hospital which Wei received treatment in is a public professional hospital. Meanwhile, the relation advertisement of the hospital on Baidu were all deleted.
+	“On May 2nd , a joint investigation team ,which was set up by State Information Office, SAIC, the National Health&Family Planning Commission and the related Beijing authorities,stationed in Baidu. Investigations had been launched by the team, centered around the problems of Beidu Search in “Wei Zexi Incident”and PPC search mechanism defects of Baidu. The team believes that Baidu PPC search related keyword results objectively have an impact on Wei Zexi’s selection of hospital. In fact, Baidu PPC search mechanism really exists a lots of problems as high proportion of Paid bids, unclear business promotion identity,etc. These issues affect the impartiality and objectivity of search results, will mislead users easily, therefore must be immediate rectification.” (Admin, 2016) And Baidu responded to the team that it will take effect in 5 aspects:
+1.	“Baidu will immediately make a comprehensive review of all medical class of business promotion services, firmly refuse to provide business promotion to those medical institutions that not obtained the qualified approval of the competent authorities, at the same time timely offline the offending medical category promotional information (including drugs, medical devices, etc.)” (Admin, 2016)
+2.	“For commercial promotion results, Baidu will change its old price-based sorting mechanism to a new sorting mechanism of credibility with a price supplement.” (Admin, 2016)
+3.	“Control the number of results on Business promotion,strictly limit the number of business promotion information on the search result page, especially on the first page. And the proportion of the business promotion information on each page will be under 30%.” (Admin, 2016)
+4.	“Clearly marked all business promotion information in all search results to make effective risk warning.”(Admin, 2016)
+5.	“Strengthen the ecological construction of the medical content in search results. Establishing the rating system to medical content. United Methodist Planning Commission, the Chinese Academy of Medical Sciences and other institutions to improve the quality of medical information, helping users to get accurate and authoritative health information and services.” (Admin, 2016)
+
+1. Identifying Ethical Issues
+Should Baidu advertise a hospital if it gives Baidu a lot of money even though Baidu is uncertain about its qualifications？
+Should Baidu be responsible for Wei's death?
+Should the Beijing Armed Police Corps be responsible for Wei’s death?
+Should the Beijing Armed Police Corps make false propaganda?
+Should the media cover the Wei Zexi incident?
+Should the person in charge in the hospital make a promise to patient and his family even though he knows his hospital can’t cure him?
+Should Baidu rank the searching results according to the money given by enterprises?
+Should enterprises give money to buy a better searching rank?
+Should Baidu monitor the searching results?
+Should Baidu clearly mark all business information in all search results?
+Should netizens blame Baidu for its actions?
+Should Wei Zexi blame Baidu for its actions?
+
+
+2. Narrowing the Focus
+Of all the questions above, I think the most important ethic issue is that: should Baidu advertise a hospital if it gives Baidu a lot of money even though Baidu is uncertain about its qualifications？
+Here is my explanation: 
+First of all, Baidu's irresponsible ranking of unqualified hospital was an important cause of Wei's death. This result was very serious and caused irreparable damage to Wei and his family and friends. Furthermore, as China's largest search engine provider, Baidu's irresponsibility will have a negative impact on countless people and seriously endanger public safety. Last but not least, this incident has brought the serious trust crisis to the society, the influence of which is very wide and devastating. From the above, I think this(指上面的问题，可以当作Ambiguous terminology) is the most important ethic issue.
+
+3. List facts that would help to resolve the most important issue/answer the question
+Facts provided
+Baidu is one of world’s largest internet company. Baidu is China’s largest search engine and the largest Chinese searching engine in the world.
+Enterprises can set their advertisements on Baidu and try to get a high rank on the searching list of Baidu by giving money to buy the service.
+Baidu doesn’t have a strict supervision on the advertisement.
+Putian hospitals may have contributed 12 billion RMB of the total of 26 billion RMB in ad revenues reported by Baidu that year.
+Wei Zexi was treated for a rare form of cancer with radiation and chemotherapy, but these did not work.
+Baidu provide the Beijing Armed Police Corps to Wei.
+Baidu claimed that Beijing Armed Police Corps have an experimental treatment for Wei's condition
+Wei found the expensive treatment was neither effective nor experimental.
+Wei believed that the hospital provided by Baidu must be legitimate.
+American hospitals had long stopped using the technology (used in the treatment) due to poor results in clinical trials.
+This hospital ranked very high in the searching results on Baidu.
+Advertisements of this hospital on Baidu said it had highly efficient immunotherapy and cooperation with Stanford
+This hospital had a high priority among all the searching results only because it had paid a lot of money to Baidu
+This hospital was not a Top-three hospital as promoted on the advertisement on Baidu.
+Wei is promised by the person in charge in the hospital that the treatment can keep Wei safe for at least 20 years.
+This treatment cost Wei more than 200 thousand RMB.
+Wei didn’t get any better after this treatment and passed away at home.
+Baidu respond to the media and public that they have check that the hospital which Wei received treatment in is a public professional hospital. 
+The relation advertisement of the hospital on Baidu were all deleted on April. 28, 2016
+
+Facts not provided but relevant
+Did Baidu review the qualifications of advertising products?
+Did Baidu have the right to mix paid searching results with natural searching results?
+Has Baidu’s bidding ranking policy been approved by the company’s management?
+Does the Putian Medical Group have medical qualifications?
+Has Baidu already compensated Wei Zexi’s family?
+
+4. Make reasonable assumptions regarding missing facts
+First, if Baidu reviewed the qualifications of advertising products, Baidu should refuse to advertise the putian Medical Group, and from this point of view, Baidu did not review the qualifications of advertising products. But on the other hand, the putian Medical Group paid 12 billion RMB per year to Baidu, and Baidu may review the qualifications of it but still advertised the putian Medical Group.
+Second, if it's legal to mix paid searching results with natural searching results without telling the user, Baidu should not delete advertisement of the hospital. So Baidu should not do that.
+Third, because Baidu were paid 12 billion RMB per year, company management must know that. So, Baidu’s bidding ranking policy was approved by the company’s management.
+Forth, this hospital was not a Top-three hospital as Baidu said. Besides, Baidu said it had highly efficient immunotherapy and cooperation with Stanford, which is absolutely fraudulent. But the Putian Medical Group should have medical qualifications or it cannot get hospital license and still open to patients. 
+Fifth, Baidu claimed that Beijing Armed Police Corps have an experimental treatment for Wei's condition, which means Baidu don't want to take responsibility of Wei's death. And if Baidu compensates Wei's family, it's likely that many similar families will ask Baidu for compensation. So it is very likely that Baidu did not give compensation to Wei Zexi’s family.
+
+5. Clarify the use of any potentially ambiguous terminology you've used
+promotion: Baidu defined this service as a “promotion” instead of “advertisement”, though they are similar to each other, promotion refers to any type of marketing communication used to persuade people of the relative merits of a product and service. 
+
+6. Identify ethical principles that would be relevant for resolving the issue under consideration, starting with the principles for ethical global engineering outlined in chapter four, providing a very brief explanation of why they are relevant. If these principles conflict, then be sure to prioritize them, explaining which ones would be more/less important and why. If you think additional principles apply, then list these as well.
+Baidu is one of world’s largest internet company, China’s largest search engine and the largest Chinese searching engine in the world. So its products will influence many families, which means as a company, responsibilities related to Baidu are strongly connected. Referring to the list in Appendix 1, these include principles related to public safety (1), human rights (2), and truthful disclosure (6). As a big company, Baidu should endeavor to avoid producing unnecessary harms to those in and outside of their organizations (1). 
+Baidu owns more than 6000 million users and has approximately 70% market share. It has lots of products across hundreds of different fields including Baidu Online Marketing Service. So Baidu should keep members of the public safe from "serious negative consequences" resulting from its advertainments or a large number of people will suffer. Such that principles (1) and (2) seem to apply to Baidu's promotion service. Furthermore, Advertisements of this hospital on Baidu said it had highly efficient immunotherapy and cooperation with Stanford, but it's not true. In fact, this hospital had a high priority among all the searching results only because it had paid a lot of money to Baidu. So truthful disclosure principle (6) and avoid producing unnecessary harms principle (1) should be apply to Baidu's fake advertisements.
+
+
+7. Reviewing the Process
+From the ethical analysis we have done, it can be seen that the situations are mostly covered in our discussion. Wei Zexi incident reflects the issue of a large internet company about whether it should put emphasis on their social responsibility. The background and the facts of the issue indicated that Baidu as a well-known company definitely falls into the realm of an organization ethical issue, which means that it should take ethical responsibility when we apply principles to it. 
+
+8. Resolving the Issue
+The issue can be resolved resulting from our analysis above. Baidu shouldn’t advertise a hospital if it gives Baidu a lot of money even though Baidu is uncertain about its qualifications. To be clear, principles should be considered to fully resolve the issue. Referring to the list in Appendix 1, these include principles related to public safety (1), human rights (2), and truthful disclosure (6). Baidu bases its promotion on money instead of qualification, which violated (1), (2) and (6). Customers affected by those are put in a dangerous position. Baidu’s way of advertising fake hospital reveals that it lacks public responsibility, which causes Wei Zexi’s death. That is ethically wrong.
+
+9. Identifying Practical Constraints
+Baidu is expected to provide the right information when we use its website, but the advertising system is like a funding system. Like all advertisement, Baidu treated them equally without considering the special part of hospital, which includes a wider influence of society. For example, if Nike and Adidas go to Baidu asking for advertisement, Baidu will be likely to offer a price competition, who offer a higher bid gets the advertisement position, and that makes little influence on society. Organization issues when considering the society responsibility is very complicated. Baidu never foresaw the consequences before, that is the starting point when they put social responsibility into consideration.
+
+
+10. Avoiding Ethical Problems
+Baidu could avoid the ethical problem, if they realize the problem in the first place, and change the ranking system before it was published. It should be noticed that the whole thing is related to the fact that big technology company have the power to largely influence people’s life. If those companies want to avoid such kind of ethical problem, they need to take their social responsibility into deep consideration. Baidu could have avoid the ethical issue if they rank the hospitals according to quality, or put a notice on their searching result that it is an advertisement, not the true rank. 
+
+
+
+Koetse, M. (2016, May 4). Behind the Baidu Scandal: Baidu and the Putian Medical Group [Web log message] [Web log message]. Retrieved November 13, 2018, from https://www.whatsonweibo.com/behind-baidu-scandal-baidu-putian-medical-group/
+
+MIT Press. (2016, May 11). Cancer and the internet: The strange, sad case of Wei Zexi. Retrieved November 13, 2018, from https://mitpress.mit.edu/blog/cancer-and-internet-strange-sad-case-wei-zexi
+
+Admin (2016, May 18). Baidu Response to "Wei Zexi Incident”. Retrieved November 13, 2018, from http://www.yivadigital.com/blog/312_20160518
